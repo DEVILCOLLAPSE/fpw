@@ -12,7 +12,7 @@ Have a suggestion, found a bug, or have an idea that could make FPW better? Feed
 
 FPW is designed to keep your financial information on your device. No FPW account or bank connection is required.
 
-[View the FPW Privacy Policy](privacy.html)
+[View the FPW Privacy Policy](https://devilcollapse.github.io/fpw/privacy)
 
 ---
 
